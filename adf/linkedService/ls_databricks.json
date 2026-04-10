@@ -1,0 +1,14 @@
+{
+    "name": "ls_databricks",
+    "properties": {
+        "type": "AzureDatabricks",
+        "typeProperties": {
+            "domain": "https://adb-7405609342645759.19.azuredatabricks.net",
+            "accessToken": {
+                "type": "SecureString",
+                "value": ""
+            },
+            "existingClusterId": "0410-100257-effrq302"
+        }
+    }
+}
