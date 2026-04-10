@@ -1,0 +1,9 @@
+{
+	"name": "adf-data-demo-ilitia",
+	"location": "spaincentral",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "747b60a3-5e10-4f35-a27e-148668eff70f",
+		"tenantId": "956cd31d-b80d-48be-93a9-2a68c62bda55"
+	}
+}
